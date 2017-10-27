@@ -97,6 +97,7 @@ go get github.com/newflydd/ngrok/main/ngrok
 ```
 OK，就这么简单，就这么神奇，Windows AMD64上的Go利用简单的两个环境变量，直接构造出了Linux ARM上的可执行文件，多么伟大的语言。。。
 GOOS GOARCH的组合可以参照：
+
 | GOOS | GOARCH |
 | ------------ | ------------ |
 | darwin | 386 |
