@@ -1,4 +1,4 @@
-#原文地址来自我的博客，欢迎访问：[https://www.hexcode.cn/article/show/raspberry-ngrok](https://www.hexcode.cn/article/show/raspberry-ngrok)
+# 原文地址来自我的博客，欢迎访问：[https://www.hexcode.cn/article/show/raspberry-ngrok](https://www.hexcode.cn/article/show/raspberry-ngrok)
 
 >场景需求：家里的几台树莓派通过家用WIFI路由器上网，虽然装了Teamviewer可以远程穿透内网控制图形界面，但远程时屏幕分辨率太小，体验不佳，于是想让树莓派上的SSH也能拥有穿透内网的功能。
 
