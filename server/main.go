@@ -3,10 +3,10 @@ package server
 import (
 	"crypto/tls"
 	"github.com/newflydd/ngrok/conn"
+	log "github.com/newflydd/ngrok/log"
 	"github.com/newflydd/ngrok/msg"
 	"github.com/newflydd/ngrok/util"
 	"math/rand"
-	log "ngrok/log"
 	"os"
 	"runtime/debug"
 	"time"
